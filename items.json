@@ -1,0 +1,44 @@
+{
+  "Pizza": {
+    "name":"Pizza",
+    "type":"Foods",
+    "price":"2",
+    "desc":"This is pizza!!!!!!!"
+  },
+  "Buger": {
+    "name":"Burger",
+    "type":"Foods",
+    "price":"1",
+    "desc":"Big and Juicy"
+  },
+  "Black": {
+    "name":"Black",
+    "type":"Colours",
+    "price":"250",
+    "desc":"This gives your name a black colour"
+  },
+  "Red": {
+    "name":"Red",
+    "type":"Colours",
+    "price":"250",
+    "desc":"This gives your name a red colour"
+  },
+  "Green": {
+    "name":"Green",
+    "type":"Colours",
+    "price":"250",
+    "desc":"This gives your name a green colour"
+  },
+  "Lime Green": {
+    "name":"Lime Green",
+    "type":"Colours",
+    "price":"250",
+    "desc":"This gives your name a lime green colour"
+  },
+  "Sky Blue": {
+    "name":"Sky Blue",
+    "type":"Colours",
+    "price":"250",
+    "desc":"This gives your name a sky blue colour"
+  }
+}
