@@ -1,3 +1,7 @@
+
+Please note, I have not bothered to fix up the source to make it presentable so you are going to have to figure out what is needed and what is not. Ignore the shabby code, there is a reason I'm redoing it. Made to be hosted on [Glitch](https://glitch.com)
+
+
 Gazer (LoE Bot)
 ===============
 
